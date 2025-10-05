@@ -1,0 +1,12 @@
+lista = [1,3,4,5,"blip",True,False]
+print(f"Minha lista de exmplo {lista}")
+print(lista[0])
+print(lista[1])
+print(lista[2])
+print(lista[3])
+print(lista[4])
+print(lista[5])
+print(lista[6])
+print(lista[1:5])
+print(lista[:5])
+print(lista[2:])
